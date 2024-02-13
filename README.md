@@ -5,6 +5,7 @@ This repository contains the code for visualizing 3D affordances of various obje
 ## Dataset
 ```
 https://andlollipopde.github.io/3D-AffordanceNet/
+https://drive.google.com/drive/u/7/folders/1NGefVE8AsdGBiZnZ-cBNe9Edj17F4P_l
 ```
 ### Implimentation & Benchmark
 ```
